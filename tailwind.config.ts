@@ -9,9 +9,10 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        amazon_blue: "#131921",
-        amazon_light: "#232F3E",
-        amazon_yellow: "#febd69",
+        primary: '#001824',
+        secondary: '#F8F9FA',
+        buttonColor: '#00ADEA',
+        yellow: "#febd69",
         lightText: "#ccc",
       },
       fontFamily: {
@@ -19,6 +20,6 @@ const config: Config = {
       },
     },
   },
-  plugins: [],
+  plugins: [require('tailwind-scrollbar-hide')],
 }
 export default config

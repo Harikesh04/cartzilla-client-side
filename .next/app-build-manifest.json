@@ -6,26 +6,21 @@
       "static/css/app/(nav-footer)/layout.css",
       "static/chunks/app/(nav-footer)/layout.js"
     ],
-    "/(nav-footer)/signin/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(nav-footer)/signin/page.js"
-    ],
-    "/(super-admin)/dashboard/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(super-admin)/dashboard/page.js"
-    ],
-    "/(super-admin)/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/(super-admin)/layout.css",
-      "static/chunks/app/(super-admin)/layout.js"
-    ],
     "/(nav-footer)/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/(nav-footer)/page.js"
+    ],
+    "/(remaining)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(remaining)/layout.css",
+      "static/chunks/app/(remaining)/layout.js"
+    ],
+    "/(remaining)/signin/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(remaining)/signin/page.js"
     ]
   }
 }

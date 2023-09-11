@@ -1,5 +1,4 @@
 {
   "/(nav-footer)/page": "app/(nav-footer)/page.js",
-  "/(super-admin)/dashboard/page": "app/(super-admin)/dashboard/page.js",
-  "/(nav-footer)/signin/page": "app/(nav-footer)/signin/page.js"
+  "/(remaining)/signin/page": "app/(remaining)/signin/page.js"
 }
