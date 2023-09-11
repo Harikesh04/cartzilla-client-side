@@ -1,1 +1,0 @@
-globalThis.__RSC_MANIFEST=(globalThis.__RSC_MANIFEST||{});globalThis.__RSC_MANIFEST["/page"]="{\"ssrModuleMapping\":{},\"edgeSSRModuleMapping\":{},\"clientModules\":{},\"entryCSSFiles\":{\"/Users/harikeshsingh/Desktop/Next/cartzilla-client/src/app/page\":[]}}"

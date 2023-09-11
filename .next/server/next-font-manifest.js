@@ -1,1 +1,1 @@
-self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{},\"appUsingSizeAdjust\":false,\"pagesUsingSizeAdjust\":false}"
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/harikeshsingh/Desktop/Next/cartzilla-client/src/app/(nav-footer)/layout\":[\"static/media/2aaf0723e720e8b9-s.p.woff2\"],\"/Users/harikeshsingh/Desktop/Next/cartzilla-client/src/app/(super-admin)/layout\":[\"static/media/2aaf0723e720e8b9-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
